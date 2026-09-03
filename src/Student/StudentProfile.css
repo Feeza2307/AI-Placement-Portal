@@ -1,0 +1,44 @@
+.student-profile {
+  min-height: 100vh;
+  background: #0d1528;
+  color: #ffffff;
+}
+
+.student-profile-header {
+  background: #111827;
+  border-bottom: 1px solid #263244;
+}
+
+.student-profile-card {
+  background: #1d2a40;
+  border: 1px solid #34445d;
+  border-radius: 16px;
+}
+
+.student-profile-input {
+  background: #162238;
+  border: 1px solid #34445d;
+  color: #ffffff;
+}
+
+.student-profile-input:focus {
+  border-color: #6366f1;
+  outline: none;
+}
+
+.student-profile-button {
+  background: #6366f1;
+  color: #ffffff;
+}
+
+.student-profile-button:hover {
+  background: #5558e8;
+}
+
+.student-profile-secondary {
+  color: #8fa3bf;
+}
+
+.student-profile-muted {
+  color: #64748b;
+}
